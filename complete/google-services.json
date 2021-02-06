@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "952754875662",
+    "firebase_url": "https://iot-sweet-home-default-rtdb.firebaseio.com",
+    "project_id": "iot-sweet-home",
+    "storage_bucket": "iot-sweet-home.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952754875662:android:66057eec542b3edab0bb5f",
+        "android_client_info": {
+          "package_name": "com.dannark.SmartHouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952754875662-2e3ohrb4g09duv09c6q948r66nh80i57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dannark.SmartHouse",
+            "certificate_hash": "4da788b06ad828ee86ad569577487a625d93e2d7"
+          }
+        },
+        {
+          "client_id": "952754875662-dlf6hgirqva31ed6gfggqcp7q7moehkb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dannark.SmartHouse",
+            "certificate_hash": "8ffb0c666d82118741acd446ce4083f830c31634"
+          }
+        },
+        {
+          "client_id": "952754875662-40eip1c6gn9ebr3glepf9ikb12pug5r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEydqHkmji9miVms4rqBu-6quIdFj5uE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952754875662-40eip1c6gn9ebr3glepf9ikb12pug5r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952754875662:android:32b3ff4652383b60b0bb5f",
+        "android_client_info": {
+          "package_name": "com.example.android.watchface.watchfacekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952754875662-40eip1c6gn9ebr3glepf9ikb12pug5r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEydqHkmji9miVms4rqBu-6quIdFj5uE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952754875662-40eip1c6gn9ebr3glepf9ikb12pug5r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
